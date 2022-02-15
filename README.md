@@ -1,7 +1,7 @@
 ## 👻 Kim, Jiyoon 👻
 
 ### ⚡️ contacts
-👀 my IT blog     : "https://jyoonit.tistory.com <br>
+👀 my IT blog     : https://jyoonit.tistory.com <br>
 👀 my daily blog  : https://blog.naver.com/jjuni28 <br>
 👀 e-mail         : jjuni28@naver.com
 
