@@ -1,5 +1,3 @@
-Hi there 👋
-
 ## 👻 Kim, Jiyoon 👻
 
 ### ⚡️ contacts
