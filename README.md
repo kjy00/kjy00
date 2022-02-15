@@ -6,7 +6,7 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat&logo=42&logoColor=white" width="80" height="25"/></a>
 
-## my stats📊
+## my stats
 [![jiyokim's 42 stats](https://badge42.herokuapp.com/api/stats/jiyokim)](https://github.com/JaeSeoKim/badge42)
 
 ![kjy00's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjy00&show_icons=true&theme=dracula)
