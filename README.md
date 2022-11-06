@@ -1,8 +1,8 @@
-## 👻 Kim, Jiyoon 👻
+# 👻 Kim Jiyoon 👻
 
-👩‍💻 [my IT blog](https://jyoonit.tistory.com) <br>
-👀 [my daily blog](https://blog.naver.com/jjuni28) <br>
-📞 e-mail :    jjuni28@naver.com
+- <a href="https://jyoonit.tistory.com" target="_blank" style="text-decoration:none">👩‍💻 [my IT blog]</a> <br/>
+- <a href="https://jyoonit.tistory.com" target="_blank">👀 [my daily blog]</a> <br/>
+- 📞 e-mail :    jjuni28@naver.com
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat&logo=42&logoColor=white" width="80" height="25"/></a>
 
