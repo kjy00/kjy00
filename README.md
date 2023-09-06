@@ -1,7 +1,6 @@
 # 👻 Kim Jiyoon 👻
 
 - <a href="https://jyoonit.tistory.com" target="_blank" style="text-decoration:none">👩‍💻 [my IT blog]</a> <br/>
-- <a href="https://blog.naver.com/jjuni28" target="_blank">👀 [my daily blog]</a> <br/>
 - 📞 e-mail :    jjuni28@naver.com
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
